@@ -12,20 +12,20 @@ body, html {
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #10b5f7;
   font-weight: bold;
   transition: color .1s;
 }
 
 a:hover {
-  color: #3486eb;
+  color: #f73628;
 }
 
 button {
   background-color: #225ca3;
   border: 0;
   padding: 1%;
-  color: white;
+  color: rgb(10, 10, 10);
   font-weight: bold;
   transition: background-color .1s;
   cursor: pointer;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: #3486eb;
+  background-color: #eef10d;
 }
 
 .post-list {
@@ -114,7 +114,7 @@ main {
 }
 
 .delete-post-btn:hover {
-  background-color: #ff643d;
+  background-color: #f0da15;
 }
 
 .post {
@@ -125,7 +125,7 @@ main {
 .post .title span {
   font-style: italic;
   font-size: 90%;
-  color: #7d7d7d;
+  color: #ec5a5a;
 }
 
 .edit-link {
